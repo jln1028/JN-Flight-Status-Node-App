@@ -3,9 +3,9 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: Flight Status Node App JLN
-  host: Flight-Status-Node-App-JLN
+  name: JN Flight Status Node App
+  host: JN-Flight-Status-Node-App
   disk_quota: 1024M
   services:
   - API_Connect_Service_Flight_Status
-  - Flight Status Node App-cloudantNoSQLDB
+  - JN-Flight-Status-Node-App-cloudantNoSQLDB
