@@ -15,9 +15,9 @@ var apiBaseURL = 'https://api.apim.ibmcloud.com/banchasetthananau1ibmcom-dev/sb/
 
 
 // Edits: Srinivas 10072016
-var faaClientSecret = 'B3fT0eI3bM3dS4eO5rL6xG3pP8vL8yT0jO6hQ8kH7oD0cE0sW7';
-var faaClientId = '0605f6cd-3b05-4428-8ff4-83dbfea0be4a';
-var statusBaseURL = 'https://api.us.apiconnect.ibmcloud.com/srinivausibmcom-bluemix-bootcamp/ctg-faa-status/airport';
+var faaClientSecret = 'pM6wS1kI0aS0sB4hP7tH3eU5qP4rB7eH0wE3bR2qK2eE8gU7sC';
+var faaClientId = '575d7169-1a32-496f-a7e9-1913c4fb9c7d';
+var statusBaseURL = 'https://api.us.apiconnect.ibmcloud.com/jnewellusibmcom-bluemix-bootcamp/ctg-faa-status/airport';
 
 
 var petstoreCreds = appEnv.getServiceCreds(/petstore/i);
