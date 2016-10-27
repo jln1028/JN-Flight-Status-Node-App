@@ -64,8 +64,8 @@ exports.findStatus = function(req, res) {
         '?format=' + req.query.format,
         method: 'GET', //Specify the method
         headers: { //We can define headers too
-          'X-IBM-Client-Id':'0605f6cd-3b05-4428-8ff4-83dbfea0be4a',
-          'X-IBM-Client-Secret':'B3fT0eI3bM3dS4eO5rL6xG3pP8vL8yT0jO6hQ8kH7oD0cE0sW7'
+          'X-IBM-Client-Id':'575d7169-1a32-496f-a7e9-1913c4fb9c7d',
+          'X-IBM-Client-Secret':'pM6wS1kI0aS0sB4hP7tH3eU5qP4rB7eH0wE3bR2qK2eE8gU7sC'
         }
     };
     //Edits: Srinivas Cheemalapati 10/05/2016
