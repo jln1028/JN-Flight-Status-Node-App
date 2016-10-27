@@ -8,4 +8,4 @@ applications:
   disk_quota: 1024M
   services:
   - API_Connect_Service_Flight_Status
-  - JN-Flight-Status-Node-App-cloudantNoSQLDB
+  - JN Flight Status-cloudantNoSQLDB
